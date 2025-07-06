@@ -1,5 +1,17 @@
 # AI-CHATBOT-WITH-NLP
 
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : MAYANK RAJ
+
+INTERN ID :CT06DF1345
+
+DOMAIN : PYTHON PROGRAMMING
+
+DURATION : 6 WEEKS
+
+MENTOR : NEELA SANTOSH
+
 # 🤖 AI Chatbot with NLP (Rule-Based)
 
 This is a simple rule-based AI chatbot developed using **Python** and **Natural Language Processing (NLP)** techniques. It uses **`intents.json`** to match user input with predefined patterns and returns a suitable response. No training, no internet — just clean logic and smart replies using `NLTK` (or simplified split for Python 3.13).

@@ -133,7 +133,7 @@ python chatbot.py
 
 ## 👨‍💻 Author
 
-**Developed by:** Mayank
+**Developed by:** Mayank Raj 
 *Second Year Student, B.Tech (CSE)*
 
 

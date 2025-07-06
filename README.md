@@ -138,4 +138,4 @@ python chatbot.py
 
 ## ** OUTPUT**
 
-
+<img width="1030" height="454" alt="Image" src="https://github.com/user-attachments/assets/2d77ba7d-d9b6-45f5-bf15-abe419727bac" />
